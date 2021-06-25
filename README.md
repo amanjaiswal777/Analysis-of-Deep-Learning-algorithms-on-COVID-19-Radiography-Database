@@ -45,3 +45,18 @@ This repository aims to analyze the various deep learning algorithms on the radi
 > **Xception**
 4. Run each notebook file on google colab and model weights will be saved in your drive.
 5. Call these trained weights while diagnosing COVID-19 with a new x-ray image as per your choice.
+
+## Alternative (Direct downloading trained weights files using google drive link)
+
+1. VGG16_Covid_trained_weight = https://drive.google.com/file/d/1Yq2_2TbRG3Cm_A02hjF2gJOTV3-omObA/view?usp=sharing
+2. VGG19_Covid_trained_weight = https://drive.google.com/file/d/1wZ2MweOKqPWVPi1BQiH3vQ2Oz2CmjT1i/view?usp=sharing
+3. ResNet50_Covid_trained_weight = https://drive.google.com/file/d/1Oul6gRyWKtWFCy3uiPUz1EKZoKAjfujF/view?usp=sharing
+4. MobileNetV2_Covid_trained_weight = https://drive.google.com/file/d/1Kh3aJg-Q96C24Q_iex1TPW1ZaD6iq82_/view?usp=sharing
+5. NasNetMobile_Covid_trained_weight = https://drive.google.com/file/d/1ppRdfER4ig77tcR1KQ0U5z0NzEF_XDiZ/view?usp=sharing
+6. NasNetLarge_Covid_trained_weight = https://drive.google.com/file/d/163FNh4Rrd20npfoNXruNZir1oX4rfzTn/view?usp=sharing
+7. DenseNet121_Covid_trained_weight = https://drive.google.com/file/d/1wVf1aEH9C8Zxkw_qZtr-Icsj_vcLFlFw/view?usp=sharing
+8. DenseNet169_Covid_trained_weight = https://drive.google.com/file/d/1s7q_O8s2NlXiRZyiQxwZQmjzQq9lwvJj/view?usp=sharing
+9. DenseNet201_Covid_trained_weight = https://drive.google.com/file/d/1i3NdY6IXy7vn2n5z5u8tp4HbEqtdOiP6/view?usp=sharing
+10. InceptionV3_Covid_trained_weight = https://drive.google.com/file/d/1fwijJ0KXTH01bj86ZkRaywAfBqS6jiaw/view?usp=sharing
+11. InceptionResNetV2_Covid_trained_weight = https://drive.google.com/file/d/1--3Va7dOiZwN23zXKKAX3OpKphv61WqX/view?usp=sharing
+12. Xception_Covid_trained_weight = https://drive.google.com/file/d/1uVr8rF6bpSUzRPBapPOaBDSokqJ_DcA8/view?usp=sharing
