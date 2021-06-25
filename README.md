@@ -11,7 +11,7 @@ This repository aims to analyze the various deep learning algorithms on the radi
 
 ## Dataset 
 
-* You can find the dataset in the data folder being uploaded or can download from the below google drive link:-
+* You can find sample dataset in the data folder being uploaded and for full dataset please download through below google drive link:-
 * Link - "https://drive.google.com/drive/folders/1sJEAQydA_WAQfLV3mBq-pwZHz_5CRQPQ?usp=sharing"
 
 ## Steps to run the above-mentioned codes
