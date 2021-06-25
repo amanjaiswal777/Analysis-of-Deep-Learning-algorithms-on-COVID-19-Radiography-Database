@@ -63,7 +63,9 @@ This repository aims to analyze the various deep learning algorithms on the radi
 
 > **Direct use them for prediction**
 
+## Conclusion and Future work
 
+Overall, the results show that deep learning architectures have a significant impact on the COVID19 x-ray datasets. We also talked about new datasets that have recently become available around the world, as well as the use of various DL architectures. As a proof of concept, performance measures were presented to LeNet5, CNN, Dense-Net121, DenseNet169, DenseNet201, ResNet50, VGG16, VGG19, MobileNetV2, NasNetMobile, NasNetLarge, InceptionV3, InceptionResnetv2 and Xception. On the basis of the results of the previous architectures, we have proposed a method to detect the existence of COVID-19. X-ray diagnosis can be utilised as a first line of defence during large-scale population testing, and it can be made easily accessible from any remote location with a decent internet connection. More data, including but not limited to x-ray scans, could be added in future investigations. Furthermore, COVID-19 diagnosis employing sonography (lung ultrasound) in combination with radiography can be utilised to improve detection power, as ultrasound frequency analysis using acoustic models is sufficient for detecting COVID-19 existence.
 
 ### Feel free to drop question or doubt in repository issues section in **case of any issue** or reach out at **amanjaiswal5728@gmail.com**.
 
