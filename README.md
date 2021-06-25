@@ -43,3 +43,5 @@ This repository aims to analyze the various deep learning algorithms on the radi
 > **InceptionResNetV2**
 > /
 > **Xception**
+4. Run each notebook file on google colab and model weights will be saved in your drive.
+5. Call these trained weights while diagnosing COVID-19 with new x-ray image as per your choice.
