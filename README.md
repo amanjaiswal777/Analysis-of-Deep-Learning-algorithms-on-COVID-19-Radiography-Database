@@ -60,3 +60,5 @@ This repository aims to analyze the various deep learning algorithms on the radi
 10. InceptionV3_Covid_trained_weight = https://drive.google.com/file/d/1fwijJ0KXTH01bj86ZkRaywAfBqS6jiaw/view?usp=sharing
 11. InceptionResNetV2_Covid_trained_weight = https://drive.google.com/file/d/1--3Va7dOiZwN23zXKKAX3OpKphv61WqX/view?usp=sharing
 12. Xception_Covid_trained_weight = https://drive.google.com/file/d/1uVr8rF6bpSUzRPBapPOaBDSokqJ_DcA8/view?usp=sharing
+
+> **Direct use them for prediction**
