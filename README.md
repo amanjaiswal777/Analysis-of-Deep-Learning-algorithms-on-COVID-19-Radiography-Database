@@ -1,8 +1,8 @@
 # Analysis-of-Deep-Learning-algorithms-on-COVID-19-Radiography-Database
 
-This repository illustrates the implementation of the Research Paper titled as "**Analysis-of-Deep-Learning-algorithms-on-COVID-19-Radiography-Database**" published in "**International Journal of Advanced Science And Technology (IJAST)**".
+This repository illustrates the implementation of the Research Paper titled "**Analysis-of-Deep-Learning-algorithms-on-COVID-19-Radiography-Database**" published in "**International Journal of Advanced Science And Technology (IJAST)**".
 
-Below link can lead to the official site page:-
+The below link can lead to the official site page:-
 **Link** - http://sersc.org/journals/index.php/IJAST/article/view/20825
 
 ## Introduction
@@ -11,15 +11,15 @@ This repository aims to analyze the various deep learning algorithms on the radi
 
 ## Dataset 
 
-* You can find the dataset in data folder being uploaded or alternatively can download from below google drive link:-
+* You can find the dataset in the data folder being uploaded or can download from the below google drive link:-
 * Link - "https://drive.google.com/drive/folders/1sJEAQydA_WAQfLV3mBq-pwZHz_5CRQPQ?usp=sharing"
 
-## Steps to run above mentioned codes
+## Steps to run the above-mentioned codes
 
-1. Upload the data files into your drive link. Alternateively you can train on your local system or can upload on any drive. 
+1. Upload the data files into your drive link. Alternatively, you can train on your local system or can upload it on any drive. 
 > NOTE:- Here I am using google colab GPU to train the models.
 2. Open the jupyter notebook file in google drive and change the directory as per your path. 
-3. Pre-trained Deep Learning architectures have been used to train. These DL architectures includes:-
+3. Pre-trained Deep Learning architectures have been used to train. These DL architectures include:-
 > **VGG16**
 > /
 > **VGG19**
@@ -44,4 +44,4 @@ This repository aims to analyze the various deep learning algorithms on the radi
 > /
 > **Xception**
 4. Run each notebook file on google colab and model weights will be saved in your drive.
-5. Call these trained weights while diagnosing COVID-19 with new x-ray image as per your choice.
+5. Call these trained weights while diagnosing COVID-19 with a new x-ray image as per your choice.
