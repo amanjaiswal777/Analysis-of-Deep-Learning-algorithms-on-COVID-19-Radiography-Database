@@ -19,3 +19,16 @@ This repository aims to analyze the various deep learning algorithms on the radi
 1. Upload the data files into your drive link. Alternateively you can train on your local system or can upload on any drive. 
 > NOTE:- Here I am using google colab GPU to train the models.
 2. Open the jupyter notebook file in google drive and change the directory as per your path. 
+3. Pre-trained Deep Learning architectures have been used to train. These DL architectures includes:-
+> VGG16
+> VGG19
+> ResNet50
+> DenseNet121
+> DenseNet169
+> DenseNet201
+> MobileNetV2
+> NasNetMobile
+> NasNetLarge
+> InceptionV3
+> InceptionResNetV2
+> Xception
