@@ -62,3 +62,11 @@ This repository aims to analyze the various deep learning algorithms on the radi
 12. Xception_Covid_trained_weight = https://drive.google.com/file/d/1uVr8rF6bpSUzRPBapPOaBDSokqJ_DcA8/view?usp=sharing
 
 > **Direct use them for prediction**
+
+
+
+### Feel free to drop question or doubt in repository issues section in **case of any issue** or reach out at **amanjaiswal5728@gmail.com**.
+
+
+
+
