@@ -21,9 +21,13 @@ This repository aims to analyze the various deep learning algorithms on the radi
 2. Open the jupyter notebook file in google drive and change the directory as per your path. 
 3. Pre-trained Deep Learning architectures have been used to train. These DL architectures includes:-
 > VGG16
+> /
 > VGG19
+> /
 > ResNet50
+> /
 > DenseNet121
+> /
 > DenseNet169
 > DenseNet201
 > MobileNetV2
