@@ -14,4 +14,8 @@ This repository aims to analyze the various deep learning algorithms on the radi
 * You can find the dataset in data folder being uploaded or alternatively can download from below google drive link:-
 * Link - "https://drive.google.com/drive/folders/1sJEAQydA_WAQfLV3mBq-pwZHz_5CRQPQ?usp=sharing"
 
+## Steps to run above mentioned codes
 
+1. Upload the data files into your drive link. Alternateively you can train on your local system or can upload on any drive. 
+> NOTE:- Here I am using google colab GPU to train the models.
+2. Open the jupyter notebook file in google drive and change the directory as per your path. 
